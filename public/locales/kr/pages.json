@@ -1,0 +1,120 @@
+{
+  "send_status": "Send {{status}}",
+  "register_status": "Register {{status}}",
+  "latest_results": "Latest Results",
+  "next_draw": "Next Draw ",
+  "lucki": "LUCKI",
+  "play": "Play",
+  "current_pool_status": "Current Pool Status",
+  "close": "Close",
+  "deposit_address": "Deposit Address",
+  "calculator": "Calculator",
+  "if_you_send": "If you send",
+  "you_wii_receive": "You'll receive",
+  "previous_plays": "Previous Plays",
+  "game_no": "Game No.",
+  "draw_no": "Draw Number",
+  "prize": "Prize",
+  "withdrawal_wallet_setting": "Withdrawal Wallet Setting",
+  "email_change": "E-mail Change",
+  "password_change": "Password Change",
+  "delete_account": "Delete Account",
+  "withdrawal": "Withdrawal",
+  "exchange_notice": "Exchange Notice",
+  "exchange_text": "Luckis are converted into iNAE and sent back to you.",
+  "receive_wallet_setting": "Receiving Wallet Setting",
+  "my_balance": "My Balances",
+  "logout": "Logout",
+  "games_available": "Games Available",
+  "confirm_pick": "Confirm your pick",
+  "confirm_purchase": "Confirm the purchase",
+  "cancel": "Cancel",
+  "all": "All",
+  "apply": "Apply",
+  "pick5": "Pick 5",
+  "success": "Success!",
+  "insufficient_balance": "User has insufficient account balance to buy ticket.",
+  "registered_wallet": "Register a wallet for",
+  "reg_wallet_heading1": "Enter the amount of",
+  "reg_wallet_heading2": " to be sent",
+  "send_input": "You have",
+  "amount_exceeded": " Amount exceeded the available balance",
+  "lucki_short_text": "LUCKI can only be exchanged and sent with INAE automatically.",
+  "session_expired": "Session Expired",
+  "session_expired_text": "Your session has been expired due to inactivity. Kindly Login again!",
+  "how_to_play_title": "How to Play",
+  "how_to_play": {
+    "cosmic": {
+      "first": "Pick 5 numbers form 1 to 69 or use Auto Pick if you want random numers.",
+      "second": "Pick a Cosmicball number from 1 to 26 or use Auto Pick if you want random numbers.",
+      "third": "Mark how many draws to play"
+    },
+    "classic": {
+      "first": "Pick 6 numer from 1 to 49 or use  Auto Pick if you want random numbers.",
+      "second": "Mark how many draws to play"
+    },
+    "atomic": {
+      "first": "Pick 4 numers,each from 0 to 9 or use  Auto Pick if you want random numbers.",
+      "second": "Mark how many draws to play"
+    }
+  },
+  "policy_title": "Policy",
+  "policy_short_text": "Luckitto Service Terms and Conditions",
+  "policy_articles": {
+    "article1": "Article 1 (Purpose)",
+    "article1_description": "These terms and conditions are individual terms and conditions aimed at stipulating matters concerning the use of online lottery games (hereinafter referred to as 'games') provided by Luckitto (hereinafter referred to as 'services').",
+    "articl2": "Article 2 (Outline)",
+    "articl2_description": {
+      "1": "1. These terms and conditions are individual terms and conditions aimed at stipulating matters concerning the use of online lottery games (hereinafter referred to as 'games') provided by Luckitto (hereinafter referred to as 'services').",
+      "2": "2. These games are played by charging game points (hereinafter referred to as 'LUCKI') used in the game system and deducting the amount used.",
+      "3": "3. LUCKI is automatically exchanged and accumulated according to the conversion rate specified in the conversion table posted at all times in the game when the tokens held by the member are sent to the system wallet address after signing up for membership.",
+      "4": "4. The conversion table is updated to the system by the administrator at 00:00 GMT every day so that it is automatically applied to the conversion table in the game. Therefore, the local application time may vary depending on the network location using the service.",
+      "5": "5. The automatic conversion system converts to the USD transaction price for each Coin based on the 'Coin Market Cap' website. At this time, 1 LUCKI is replaced with the same value as 1 USD and automatically transferred to the user's account.",
+      "6": "6. LUCKI deducted for one use of each game is 2 for Cosmic, 1 for Classic, and 1 for Atomic.",
+      "7": "7. The deducted LUCKI is burned as soon as you participate in the game, and the actual token used for LUCKI conversion is sent to the Game Pot.",
+      "8": "8. These games are managed by receiving the number selected by the member while encrypting the data and recording it on the database server.",
+      "9": "9. The usage period for each round of games is from the start date of each game to 1 minute before the lottery time, and the usage deadline is automatically displayed on the screen according to the network location used by each member. However, an error may occur in the time displayed on the screen due to a transmission speed on the network.",
+      "10": "10. Based on GMT, the lottery games is automatically played on the blockchain system at 13:00 every Sunday for Cosmic, 13:00 every Saturday for Classic, and 00:00 and 12:00 every day for Atomic, and the lottery results are displayed on the specific screen and personal information page within the service."
+    },
+    "articl3": "Article 3 (Refund rate and prize structure)",
+    "article3_description": {
+      "1": "1. The operation of the prize for the game shall be as follows:",
+      "2": "2. The winning structure is as follows:",
+      "3": "3. In a single game, winner is only eligible to obtain prize for the highest match (eg- if a player wins a jackpot, he obtains prize only for the jackpot, not for 2nd and 3rd place.",
+      "4": "4. The winnings are automatically sent to the member's account within 12 hours after the drawing time for each game. However, transmission may be delayed due to game system failure."
+    },
+    "articl3_subDescription": {
+      "1": "① The reimbursement rate for this game is 70 percent of total paid.",
+      "2": "② The prize for each rank of the games is determined by the total number of participating tokens in the corresponding round, not by a fixed prize, and the prize tokens distributed for each rank are divided by the number of winners.",
+      "3": "③ The total number of participating tokens is summed up and displayed as tokens used by members of the corresponding round.",
+      "4": "④ If there is no winner of the first prize, the first prize shall be carried over and added to the first prize of the next round, and if there is no winner of the second or third prize, it shall be included in the prize of the immediate higher rank."
+    },
+    "article4": "Article 4 (Cancellation of game purchase, exchange and refund)",
+    "article4_description": {
+      "1": "1. This game is a lottery system that guarantees transparency in voting and prize distribution, and due to the nature of the game pot in which the user's game coin is uni-directional, cancellation of purchase, exchange, or refund is not possible."
+    },
+    "article5": "Article 5 (Winner Payment)",
+    "article5_description": {
+      "1": "1. The automatically transmitted game prize can be checked on the member page balance display screen after the game, and can be acquired by Token through the Payout function. At this time, it is provided to enable individual input of the receiving wallet address for each type of Token.",
+      "2": "2. When sending tokens to a specific wallet through the Payout function, we are not responsible for mistransfer due to an incorrect address of the wallet address input by the member."
+    },
+    "article6": "Article 6 (Dealing with illegality)",
+    "article6_description": {
+      "1": "1. In the event of various illegal activities, such as hacking, forgery of game data and design, etc., the relevant member shall pay civil and criminal penalties and compensation for damages.",
+      "2": "2. For winnings through illegal acts, winnings will be invalidated and payment of winnings will be suspended.",
+      "3": "3. Illegal members' accounts are registered in the 'bad member list' within the service system, and the member will not be able to use the service until separate approval is granted by the administrator."
+    },
+    "article7": "Article 7 (Withdrawal and balance processing)",
+    "article7_description": {
+      "1": "1. You can withdraw from this service on the account settings screen. At this time, withdrawal is not possible if there is a balance.",
+      "2": "2. The system sends notifications of forced withdrawal and balance withdrawal every month from the date of inactivity to long-term inactive users (180 days) to the e-mail registered at the time of subscription.",
+      "3": "3. Based on the time of the last access to the service, if the user is inactive for 365 days, the user is forcibly withdrawn, and all remaining balance at the time of withdrawal is returned to the system wallet and all user account information is deleted."
+    },
+    "article8": "Article 8 (Addendum: Notice of countries and regions where the service is restricted)",
+    "article8_description": {
+      "1": "The service is restricted in certain countries and regions, and members are liable for illegal use of the service.",
+      "2": "Countries and regions where the service is restricted include the United States, Austria, Australia, Aruba, Bonaire, Curacao, France, Netherlands, Sabah, Saint Maarten, Singapore, Spain, United Kingdom, and other central governments in Curacao where online gambling is illegal; this includes all territories and possessions of all designated country.",
+      "3": "These terms and conditions apply from April 1, 2023."
+    }
+  }
+}

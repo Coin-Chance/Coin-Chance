@@ -1,0 +1,54 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+    "baseUrl": ".",
+    "paths": {
+      "@types": ["./@next/types"],
+      "@/components/*": ["components/*"],
+      "@/pages/*": ["app/*"],
+      "@styles": ["./styles"],
+      "@utils": ["./@next/utils"],
+      "@ApiReq": ["./@next/ApiReq"],
+      "@hooks": ["./@next/hooks"],
+      "@config": ["./@next/config"],
+      "@data": ["./@next/data"],
+      "@services": ["./@next/services"],
+      "@store": ["./@next/store"],
+      "@routes": ["./@next/routes"],
+      "@contexts": ["./@next/contexts"],
+      "@atoms": ["./@next/components/atoms"],
+      "@molecules": ["./@next/components/molecules"],
+      "@organisms": ["./@next/components/organisms"],
+      "@templates": ["./@next/components/templates"],
+      "@sections": ["./@next/components/sections"],
+      "@layouts": ["./@next/layouts"]
+    },
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  "include": [
+    "next-env.d.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    "types.d.ts",
+    ".next/types/**/*.ts",
+    "@next/components/atoms/generic-dialog/generic-dialog.tsx"
+  ],
+  "exclude": ["node_modules"]
+}
