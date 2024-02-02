@@ -1,4 +1,4 @@
-# Luckitto - User Panel
+# Coin Chance - User Panel
 
 ## Running locally in development mode
 
